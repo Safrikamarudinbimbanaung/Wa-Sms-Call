@@ -1,7 +1,7 @@
 # Wa-Sms-Call
 <p align="center">
     <img src="https://img.shields.io/static/v1?logo=linux&label=Language&message=python&color=yellow">
-<img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=yellow&style=plastic" alt="views">
+<img src="https://komarev.com/ghpvc/?username=Xenzi-XN1&label=Views&color=green&style=plastic" alt="views">
 
 # Cara Install
 ```python
